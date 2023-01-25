@@ -17,11 +17,14 @@
 
 <p>This app can be used to write and track your day habits and make sure you can complete them every day.</p>
 
-<img src=".github/home.png" alt="Image of a calendar with habits filled in some weekdays." />
+<p float="left" align="middle">
+  <img width="32%" src=".github/home.png" alt="Image of a calendar with habits filled in some weekdays." />
 
-<img src=".github/specific-day.png" alt="Image of the form used to create a habit." />
+  <img width="32%" src=".github/specific-day.png" alt="Image of the form used to create a habit." />
 
-<img src=".github/new-habit.png" alt="Image of the Popover that appears showing your habits when selecting a day on calendar." />
+  <img width="32%" src=".github/new-habit.png" alt="Image of the Popover that appears showing your habits when selecting a day on calendar." />
+</p>
+
 
 ## ⚙ Technologies
 
